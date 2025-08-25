@@ -1,10 +1,9 @@
-SAP Analytics Cloud – Planning & Forecasting Project
+SAP Analytics Cloud – Planning & Forecasting 
 
 This repository documents my hands-on project with SAP Analytics Cloud (SAC), where I designed planning models, performed forecasting simulations, and developed interactive stories.
-
 The goal of this project was to understand how SAC can be used for enterprise planning workflows, from data modeling to predictive forecasting and visualization.
 
-🔧 Technical Implementation
+Technical Implementation
 1. Planning Models
 
 Defined dimensions:
@@ -83,7 +82,7 @@ Included monthly rolling forecasts with version filters.
 
 Integrated predictive outputs into planning models.
 
-🏗️ Workflow Overview
+ Workflow Overview
 [Data Sources: Historical Sales (2015–2021)]
           ↓
  [Planning Model in SAC]
@@ -105,7 +104,7 @@ Integrated predictive outputs into planning models.
    - Value Driver Tree Story
    - Rolling Forecast Story
 
-📂 Repository Contents
+Repository Contents
 
 Sales_Planning_Story_SAC.pdf – Story on sales planning with historical data and revenue/quantity trends by product group.
 
@@ -113,14 +112,14 @@ Value_Driver_Tree_Story_SAC.pdf – Story showcasing the use of Value Driver Tre
 
 Rolling_Forecast_Story_SAC.pdf – Story implementing a rolling forecast for Mountain Bikes with monthly breakdown and version comparisons.
 
-🚀 Key Takeaways
+Key Takeaways
 
 This project demonstrates how SAP Analytics Cloud supports:
 
-✅ End-to-End Planning: From data modeling to forecasting and reporting.
+End-to-End Planning: From data modeling to forecasting and reporting.
 
-✅ Predictive Analytics: Using built-in forecasting and driver-based models.
+Predictive Analytics: Using built-in forecasting and driver-based models.
 
-✅ Collaboration & Storytelling: Enabling interactive dashboards for business users.
+Collaboration & Storytelling: Enabling interactive dashboards for business users.
 
 By combining planning models, forecasting techniques, and stories, I simulated real-world financial & sales planning workflows in SAC.
