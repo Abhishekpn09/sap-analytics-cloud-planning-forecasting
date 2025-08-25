@@ -3,8 +3,9 @@ SAP Analytics Cloud – Planning & Forecasting
 This repository documents my hands-on project with SAP Analytics Cloud (SAC), where I designed planning models, performed forecasting simulations, and developed interactive stories.
 The goal of this project was to understand how SAC can be used for enterprise planning workflows, from data modeling to predictive forecasting and visualization.
 
-Technical Implementation
-1. Planning Models
+Technical Implementation:
+
+**1. Planning Models**
 
 Defined dimensions:
 
@@ -22,7 +23,7 @@ Configured private/public dimensions and hierarchies.
 
 Managed master data and loaded transactional data (2015–2021 actuals).
 
-2. Central Planning Functions
+**2. Central Planning Functions**
 
 Used SAC’s built-in functions to simulate real-world business planning workflows:
 
@@ -36,7 +37,7 @@ Data Actions: Built reusable scripts for copying data, allocations, and running 
 
 Currency Conversion: Defined conversion tables to simulate revenue impact across local and global currencies.
 
-3. Forecasting & Predictive Analytics
+**3. Forecasting & Predictive Analytics**
 
 Applied Predictive Forecasts directly in SAC stories using historical sales data.
 
@@ -54,7 +55,7 @@ Compared Actuals vs. Forecast Versions (FCV4).
 
 Showed cut-over to Jan 2022 as Forecast baseline.
 
-4. Stories (Dashboards)
+**4. Stories (Dashboards)**
 
 Built interactive dashboards (Stories) as the front-end for business users:
 
@@ -82,7 +83,8 @@ Included monthly rolling forecasts with version filters.
 
 Integrated predictive outputs into planning models.
 
- Workflow Overview
+** Workflow Overview**
+
 [Data Sources: Historical Sales (2015–2021)]
           ↓
  [Planning Model in SAC]
