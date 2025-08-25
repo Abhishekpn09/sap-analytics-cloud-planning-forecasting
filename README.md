@@ -83,7 +83,7 @@ Included monthly rolling forecasts with version filters.
 
 Integrated predictive outputs into planning models.
 
-** Workflow Overview**
+**Workflow Overview:**
 
 [Data Sources: Historical Sales (2015–2021)]
           ↓
@@ -106,7 +106,7 @@ Integrated predictive outputs into planning models.
    - Value Driver Tree Story
    - Rolling Forecast Story
 
-Repository Contents
+**Repository Contents**
 
 Sales_Planning_Story_SAC.pdf – Story on sales planning with historical data and revenue/quantity trends by product group.
 
@@ -114,7 +114,7 @@ Value_Driver_Tree_Story_SAC.pdf – Story showcasing the use of Value Driver Tre
 
 Rolling_Forecast_Story_SAC.pdf – Story implementing a rolling forecast for Mountain Bikes with monthly breakdown and version comparisons.
 
-Key Takeaways
+**Key Takeaways**
 
 This project demonstrates how SAP Analytics Cloud supports:
 
